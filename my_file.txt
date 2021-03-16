@@ -1,0 +1,5 @@
+5 Junkrat
+6 Mercy
+1 Zenyatta
+5 Reinhardt
+8 Roadhog
